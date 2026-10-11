@@ -8,6 +8,8 @@ https://jazblue.github.io/fusebox-detective/
 
 ## Features
 
+- Quick diagnosis notes explaining delayed trips, what to record, and useful questions to ask an electrician—without DIY electrical testing
+
 - Guided questions about when the trip happens and what loses power
 - A record of observations for hallway, stairway, landing, and other lights
 - Safety warnings for burning smells, crackling, heat, scorch marks, damp, or electric shocks
